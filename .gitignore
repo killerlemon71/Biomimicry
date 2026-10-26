@@ -1,0 +1,8 @@
+# Scratch and temp files
+*.tmp
+*.log
+demo_frame_preview.jpg
+youtube.com/
+
+# Large presentation binaries (optional - can keep local)
+# *.pptx
